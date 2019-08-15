@@ -12,12 +12,8 @@ class Main extends React.Component {
           credentials="3paTsKrNe:0f731b8d-e4d0-44b6-b77a-8fd95c018aa1">
             
           Hello from ReactiveSearch!
+        <DataSearch/>
         </ReactiveBase>
-        <DataSearch
-        
-        
-        
-        />
       </div>
     );
   }
